@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "Naïm Elmaftouhi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
 }
